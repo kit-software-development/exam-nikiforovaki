@@ -1,0 +1,64 @@
+C:\Users\weltk\source\repos\Miner\Miner\bin\Debug\Miner.exe.config
+C:\Users\weltk\source\repos\Miner\Miner\bin\Debug\Miner.exe
+C:\Users\weltk\source\repos\Miner\Miner\bin\Debug\Miner.pdb
+C:\Users\weltk\source\repos\Miner\Miner\obj\Debug\Miner.csprojAssemblyReference.cache
+C:\Users\weltk\source\repos\Miner\Miner\obj\Debug\Miner.Form1.resources
+C:\Users\weltk\source\repos\Miner\Miner\obj\Debug\Miner.Properties.Resources.resources
+C:\Users\weltk\source\repos\Miner\Miner\obj\Debug\Miner.csproj.GenerateResource.cache
+C:\Users\weltk\source\repos\Miner\Miner\obj\Debug\Miner.csproj.CoreCompileInputs.cache
+C:\Users\weltk\source\repos\Miner\Miner\obj\Debug\Miner.exe
+C:\Users\weltk\source\repos\Miner\Miner\obj\Debug\Miner.pdb
+C:\Users\Монгол\Desktop\Miner\Miner\bin\Debug\Miner.exe.config
+C:\Users\Монгол\Desktop\Miner\Miner\bin\Debug\Miner.exe
+C:\Users\Монгол\Desktop\Miner\Miner\bin\Debug\Miner.pdb
+C:\Users\Монгол\Desktop\Miner\Miner\obj\Debug\Miner.csprojAssemblyReference.cache
+C:\Users\Монгол\Desktop\Miner\Miner\obj\Debug\Miner.Properties.Resources.resources
+C:\Users\Монгол\Desktop\Miner\Miner\obj\Debug\Miner.csproj.GenerateResource.cache
+C:\Users\Монгол\Desktop\Miner\Miner\obj\Debug\Miner.csproj.CoreCompileInputs.cache
+C:\Users\Монгол\Desktop\Miner\Miner\obj\Debug\Miner.exe
+C:\Users\Монгол\Desktop\Miner\Miner\obj\Debug\Miner.pdb
+C:\Users\Монгол\Desktop\Miner\Miner\obj\Debug\Miner.GameForm.resources
+C:\Users\Монгол\Desktop\Новая папка\Miner\Miner\bin\Debug\Miner.exe.config
+C:\Users\Монгол\Desktop\Новая папка\Miner\Miner\bin\Debug\Miner.exe
+C:\Users\Монгол\Desktop\Новая папка\Miner\Miner\bin\Debug\Miner.pdb
+C:\Users\Монгол\Desktop\Новая папка\Miner\Miner\obj\Debug\Miner.csprojAssemblyReference.cache
+C:\Users\Монгол\Desktop\Новая папка\Miner\Miner\obj\Debug\Miner.AboutForm.resources
+C:\Users\Монгол\Desktop\Новая папка\Miner\Miner\obj\Debug\Miner.GameForm.resources
+C:\Users\Монгол\Desktop\Новая папка\Miner\Miner\obj\Debug\Miner.Properties.Resources.resources
+C:\Users\Монгол\Desktop\Новая папка\Miner\Miner\obj\Debug\Miner.csproj.GenerateResource.cache
+C:\Users\Монгол\Desktop\Новая папка\Miner\Miner\obj\Debug\Miner.csproj.CoreCompileInputs.cache
+C:\Users\Монгол\Desktop\Новая папка\Miner\Miner\obj\Debug\Miner.exe
+C:\Users\Монгол\Desktop\Новая папка\Miner\Miner\obj\Debug\Miner.pdb
+E:\Новая папка\MinerWithNet\Miner\bin\Debug\Miner.exe.config
+E:\Новая папка\MinerWithNet\Miner\bin\Debug\Miner.exe
+E:\Новая папка\MinerWithNet\Miner\bin\Debug\Miner.pdb
+E:\Новая папка\MinerWithNet\Miner\obj\Debug\Miner.csprojAssemblyReference.cache
+E:\Новая папка\MinerWithNet\Miner\obj\Debug\Miner.AboutForm.resources
+E:\Новая папка\MinerWithNet\Miner\obj\Debug\Miner.GameForm.resources
+E:\Новая папка\MinerWithNet\Miner\obj\Debug\Miner.Properties.Resources.resources
+E:\Новая папка\MinerWithNet\Miner\obj\Debug\Miner.csproj.GenerateResource.cache
+E:\Новая папка\MinerWithNet\Miner\obj\Debug\Miner.csproj.CoreCompileInputs.cache
+E:\Новая папка\MinerWithNet\Miner\obj\Debug\Miner.exe
+E:\Новая папка\MinerWithNet\Miner\obj\Debug\Miner.pdb
+C:\Users\weltk\OneDrive\Рабочий стол\MinerWithNet\Miner\bin\Debug\Miner.exe.config
+C:\Users\weltk\OneDrive\Рабочий стол\MinerWithNet\Miner\bin\Debug\Miner.exe
+C:\Users\weltk\OneDrive\Рабочий стол\MinerWithNet\Miner\bin\Debug\Miner.pdb
+C:\Users\weltk\OneDrive\Рабочий стол\MinerWithNet\Miner\obj\Debug\Miner.csprojAssemblyReference.cache
+C:\Users\weltk\OneDrive\Рабочий стол\MinerWithNet\Miner\obj\Debug\Miner.AboutForm.resources
+C:\Users\weltk\OneDrive\Рабочий стол\MinerWithNet\Miner\obj\Debug\Miner.GameForm.resources
+C:\Users\weltk\OneDrive\Рабочий стол\MinerWithNet\Miner\obj\Debug\Miner.Properties.Resources.resources
+C:\Users\weltk\OneDrive\Рабочий стол\MinerWithNet\Miner\obj\Debug\Miner.csproj.GenerateResource.cache
+C:\Users\weltk\OneDrive\Рабочий стол\MinerWithNet\Miner\obj\Debug\Miner.csproj.CoreCompileInputs.cache
+C:\Users\weltk\OneDrive\Рабочий стол\MinerWithNet\Miner\obj\Debug\Miner.exe
+C:\Users\weltk\OneDrive\Рабочий стол\MinerWithNet\Miner\obj\Debug\Miner.pdb
+C:\Users\weltk\OneDrive\Рабочий стол\Новая папка\MinerWithNet\Miner\bin\Debug\Miner.exe.config
+C:\Users\weltk\OneDrive\Рабочий стол\Новая папка\MinerWithNet\Miner\bin\Debug\Miner.exe
+C:\Users\weltk\OneDrive\Рабочий стол\Новая папка\MinerWithNet\Miner\bin\Debug\Miner.pdb
+C:\Users\weltk\OneDrive\Рабочий стол\Новая папка\MinerWithNet\Miner\obj\Debug\Miner.csprojAssemblyReference.cache
+C:\Users\weltk\OneDrive\Рабочий стол\Новая папка\MinerWithNet\Miner\obj\Debug\Miner.AboutForm.resources
+C:\Users\weltk\OneDrive\Рабочий стол\Новая папка\MinerWithNet\Miner\obj\Debug\Miner.GameForm.resources
+C:\Users\weltk\OneDrive\Рабочий стол\Новая папка\MinerWithNet\Miner\obj\Debug\Miner.Properties.Resources.resources
+C:\Users\weltk\OneDrive\Рабочий стол\Новая папка\MinerWithNet\Miner\obj\Debug\Miner.csproj.GenerateResource.cache
+C:\Users\weltk\OneDrive\Рабочий стол\Новая папка\MinerWithNet\Miner\obj\Debug\Miner.csproj.CoreCompileInputs.cache
+C:\Users\weltk\OneDrive\Рабочий стол\Новая папка\MinerWithNet\Miner\obj\Debug\Miner.exe
+C:\Users\weltk\OneDrive\Рабочий стол\Новая папка\MinerWithNet\Miner\obj\Debug\Miner.pdb

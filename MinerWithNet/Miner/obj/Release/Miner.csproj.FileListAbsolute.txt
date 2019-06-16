@@ -1,0 +1,31 @@
+C:\Users\Монгол\Desktop\Miner\Miner\bin\Release\Miner.exe.config
+C:\Users\Монгол\Desktop\Miner\Miner\bin\Release\Miner.exe
+C:\Users\Монгол\Desktop\Miner\Miner\bin\Release\Miner.pdb
+C:\Users\Монгол\Desktop\Miner\Miner\obj\Release\Miner.GameForm.resources
+C:\Users\Монгол\Desktop\Miner\Miner\obj\Release\Miner.Properties.Resources.resources
+C:\Users\Монгол\Desktop\Miner\Miner\obj\Release\Miner.csproj.GenerateResource.cache
+C:\Users\Монгол\Desktop\Miner\Miner\obj\Release\Miner.csproj.CoreCompileInputs.cache
+C:\Users\Монгол\Desktop\Miner\Miner\obj\Release\Miner.exe
+C:\Users\Монгол\Desktop\Miner\Miner\obj\Release\Miner.pdb
+E:\Новая папка\Miner\Miner\bin\Release\Miner.exe.config
+E:\Новая папка\Miner\Miner\bin\Release\Miner.exe
+E:\Новая папка\Miner\Miner\bin\Release\Miner.pdb
+E:\Новая папка\Miner\Miner\obj\Release\Miner.csprojAssemblyReference.cache
+E:\Новая папка\Miner\Miner\obj\Release\Miner.GameForm.resources
+E:\Новая папка\Miner\Miner\obj\Release\Miner.Properties.Resources.resources
+E:\Новая папка\Miner\Miner\obj\Release\Miner.csproj.GenerateResource.cache
+E:\Новая папка\Miner\Miner\obj\Release\Miner.csproj.CoreCompileInputs.cache
+E:\Новая папка\Miner\Miner\obj\Release\Miner.exe
+E:\Новая папка\Miner\Miner\obj\Release\Miner.pdb
+E:\Новая папка\Miner\Miner\obj\Release\Miner.AboutForm.resources
+C:\Users\Монгол\Desktop\Новая папка\Miner\Miner\bin\Release\Miner.exe.config
+C:\Users\Монгол\Desktop\Новая папка\Miner\Miner\bin\Release\Miner.exe
+C:\Users\Монгол\Desktop\Новая папка\Miner\Miner\bin\Release\Miner.pdb
+C:\Users\Монгол\Desktop\Новая папка\Miner\Miner\obj\Release\Miner.csprojAssemblyReference.cache
+C:\Users\Монгол\Desktop\Новая папка\Miner\Miner\obj\Release\Miner.AboutForm.resources
+C:\Users\Монгол\Desktop\Новая папка\Miner\Miner\obj\Release\Miner.GameForm.resources
+C:\Users\Монгол\Desktop\Новая папка\Miner\Miner\obj\Release\Miner.Properties.Resources.resources
+C:\Users\Монгол\Desktop\Новая папка\Miner\Miner\obj\Release\Miner.csproj.GenerateResource.cache
+C:\Users\Монгол\Desktop\Новая папка\Miner\Miner\obj\Release\Miner.csproj.CoreCompileInputs.cache
+C:\Users\Монгол\Desktop\Новая папка\Miner\Miner\obj\Release\Miner.exe
+C:\Users\Монгол\Desktop\Новая папка\Miner\Miner\obj\Release\Miner.pdb
