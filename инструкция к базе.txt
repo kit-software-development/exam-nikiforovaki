@@ -1,0 +1,6 @@
+sql express с использованием entity framework
+
+database.sql - база данных
+необходимо будет удалить и добавить новый контекст
+а так же возможно в MsqController придется переписать строку
+using(ContextDB context=new ContextDB())
