@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище DatabaseModelContainer" CdmEntityContainer="DBProjectContex">
+    <EntitySetMapping Name="USERS">
+      <EntityTypeMapping TypeName="DatabaseModel.USERS">
+        <MappingFragment StoreEntitySet="USERS">
+          <ScalarProperty Name="LOGIN" ColumnName="LOGIN" />
+          <ScalarProperty Name="PASSWORD" ColumnName="PASSWORD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RESULTS">
+      <EntityTypeMapping TypeName="DatabaseModel.RESULTS">
+        <MappingFragment StoreEntitySet="RESULTS">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="LOGIN" ColumnName="LOGIN" />
+          <ScalarProperty Name="TIME" ColumnName="TIME" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

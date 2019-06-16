@@ -1,0 +1,41 @@
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\bin\Debug\Project.exe.config
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\bin\Debug\Project.exe
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\bin\Debug\Project.pdb
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\bin\Debug\EntityFramework.dll
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\bin\Debug\EntityFramework.xml
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\obj\Debug\Project.exe
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\obj\Debug\Project.pdb
+C:\Users\weltk\OneDrive\Рабочий стол\MinerWithNet\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\weltk\OneDrive\Рабочий стол\MinerWithNet\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\weltk\OneDrive\Рабочий стол\MinerWithNet\Server\obj\Debug\Project.exe
+C:\Users\weltk\OneDrive\Рабочий стол\MinerWithNet\Server\obj\Debug\Project.pdb
+C:\Users\weltk\OneDrive\Рабочий стол\MinerWithNet\Server\bin\Debug\Project.exe.config
+C:\Users\weltk\OneDrive\Рабочий стол\MinerWithNet\Server\bin\Debug\Project.exe
+C:\Users\weltk\OneDrive\Рабочий стол\MinerWithNet\Server\bin\Debug\Project.pdb
+C:\Users\weltk\OneDrive\Рабочий стол\MinerWithNet\Server\bin\Debug\EntityFramework.dll
+C:\Users\weltk\OneDrive\Рабочий стол\MinerWithNet\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\weltk\OneDrive\Рабочий стол\MinerWithNet\Server\bin\Debug\EntityFramework.xml
+C:\Users\weltk\OneDrive\Рабочий стол\MinerWithNet\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\weltk\OneDrive\Рабочий стол\MinerWithNet\Server\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\weltk\OneDrive\Рабочий стол\MinerWithNet\Server\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\weltk\OneDrive\Рабочий стол\MinerWithNet\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\weltk\OneDrive\Рабочий стол\Новая папка\MinerWithNet\Server\bin\Debug\Project.exe.config
+C:\Users\weltk\OneDrive\Рабочий стол\Новая папка\MinerWithNet\Server\bin\Debug\Project.exe
+C:\Users\weltk\OneDrive\Рабочий стол\Новая папка\MinerWithNet\Server\bin\Debug\Project.pdb
+C:\Users\weltk\OneDrive\Рабочий стол\Новая папка\MinerWithNet\Server\bin\Debug\EntityFramework.dll
+C:\Users\weltk\OneDrive\Рабочий стол\Новая папка\MinerWithNet\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\weltk\OneDrive\Рабочий стол\Новая папка\MinerWithNet\Server\bin\Debug\EntityFramework.xml
+C:\Users\weltk\OneDrive\Рабочий стол\Новая папка\MinerWithNet\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\weltk\OneDrive\Рабочий стол\Новая папка\MinerWithNet\Server\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\weltk\OneDrive\Рабочий стол\Новая папка\MinerWithNet\Server\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\weltk\OneDrive\Рабочий стол\Новая папка\MinerWithNet\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\weltk\OneDrive\Рабочий стол\Новая папка\MinerWithNet\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\weltk\OneDrive\Рабочий стол\Новая папка\MinerWithNet\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\weltk\OneDrive\Рабочий стол\Новая папка\MinerWithNet\Server\obj\Debug\Project.exe
+C:\Users\weltk\OneDrive\Рабочий стол\Новая папка\MinerWithNet\Server\obj\Debug\Project.pdb

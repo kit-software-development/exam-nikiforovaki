@@ -1,0 +1,26 @@
+C:\Users\Монгол\source\repos\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Монгол\source\repos\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Монгол\source\repos\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Монгол\source\repos\Project\Project\bin\Debug\Project.exe
+C:\Users\Монгол\source\repos\Project\Project\bin\Debug\Project.pdb
+C:\Users\Монгол\source\repos\Project\Project\obj\Debug\Project.exe
+C:\Users\Монгол\source\repos\Project\Project\obj\Debug\Project.pdb
+C:\Users\Монгол\source\repos\Project\Project\bin\Debug\EntityFramework.dll
+C:\Users\Монгол\source\repos\Project\Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Монгол\source\repos\Project\Project\bin\Debug\EntityFramework.xml
+C:\Users\Монгол\source\repos\Project\Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Монгол\source\repos\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Монгол\source\repos\Project\Project\bin\Debug\ru\EntityFramework.resources.dll
+E:\Новая папка\Project\Project\bin\Debug\Project.exe.config
+E:\Новая папка\Project\Project\bin\Debug\Project.exe
+E:\Новая папка\Project\Project\bin\Debug\Project.pdb
+E:\Новая папка\Project\Project\bin\Debug\EntityFramework.dll
+E:\Новая папка\Project\Project\bin\Debug\EntityFramework.SqlServer.dll
+E:\Новая папка\Project\Project\bin\Debug\EntityFramework.xml
+E:\Новая папка\Project\Project\bin\Debug\EntityFramework.SqlServer.xml
+E:\Новая папка\Project\Project\bin\Debug\ru\EntityFramework.resources.dll
+E:\Новая папка\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+E:\Новая папка\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+E:\Новая папка\Project\Project\obj\Debug\Project.csproj.CopyComplete
+E:\Новая папка\Project\Project\obj\Debug\Project.exe
+E:\Новая папка\Project\Project\obj\Debug\Project.pdb

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DatabaseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="USERS">
+    <Key>
+      <PropertyRef Name="LOGIN" />
+    </Key>
+    <Property Name="LOGIN" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PASSWORD" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="RESULTS" Relationship="Self.FK__RESULTS__LOGIN__286302EC" FromRole="USERS" ToRole="RESULTS" />
+  </EntityType>
+  <EntityType Name="RESULTS">
+    <Key>
+      <PropertyRef Name="Id" />
+      <PropertyRef Name="LOGIN" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="LOGIN" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TIME" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="USERS" Relationship="Self.FK__RESULTS__LOGIN__286302EC" FromRole="RESULTS" ToRole="USERS" />
+  </EntityType>
+  <Association Name="FK__RESULTS__LOGIN__286302EC">
+    <End Role="USERS" Type="Self.USERS" Multiplicity="1" />
+    <End Role="RESULTS" Type="Self.RESULTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="USERS">
+        <PropertyRef Name="LOGIN" />
+      </Principal>
+      <Dependent Role="RESULTS">
+        <PropertyRef Name="LOGIN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DBProjectContex" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="USERS" EntityType="Self.USERS" />
+    <EntitySet Name="RESULTS" EntityType="Self.RESULTS" />
+    <AssociationSet Name="FK__RESULTS__LOGIN__286302EC" Association="Self.FK__RESULTS__LOGIN__286302EC">
+      <End Role="USERS" EntitySet="USERS" />
+      <End Role="RESULTS" EntitySet="RESULTS" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

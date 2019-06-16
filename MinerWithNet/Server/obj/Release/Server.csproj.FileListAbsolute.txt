@@ -1,0 +1,14 @@
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\obj\Release\Server.csprojAssemblyReference.cache
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\bin\Release\Project.exe.config
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\bin\Release\Project.exe
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\bin\Release\Project.pdb
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\bin\Release\EntityFramework.dll
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\bin\Release\EntityFramework.xml
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\bin\Release\ru\EntityFramework.resources.dll
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\bin\Release\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\obj\Release\Server.csproj.CopyComplete
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\obj\Release\Project.exe
+C:\Users\Монгол\Desktop\Новая папка\Miner\Project\obj\Release\Project.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28902.138
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miner", "Miner\Miner.csproj", "{FC5E87A7-EDAA-46B7-A4FC-85606FB7D967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{F6F648F3-7CA6-4708-8A2E-2DAE552598A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC5E87A7-EDAA-46B7-A4FC-85606FB7D967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5E87A7-EDAA-46B7-A4FC-85606FB7D967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5E87A7-EDAA-46B7-A4FC-85606FB7D967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5E87A7-EDAA-46B7-A4FC-85606FB7D967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6F648F3-7CA6-4708-8A2E-2DAE552598A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F648F3-7CA6-4708-8A2E-2DAE552598A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F648F3-7CA6-4708-8A2E-2DAE552598A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F648F3-7CA6-4708-8A2E-2DAE552598A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A7CFA9C-7D75-4DD4-8ECA-0582DF1DBE2D}
+	EndGlobalSection
+EndGlobal
